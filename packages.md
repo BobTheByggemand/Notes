@@ -3,4 +3,4 @@
 * [lfs](lfs.md)
 * [image](image.md)
 * [sys](sys.md)
-* [torch](torch.md)
+* [torch](packages/torch.md)
