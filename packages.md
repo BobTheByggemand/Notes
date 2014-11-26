@@ -1,6 +1,6 @@
 # Lua Packages #
 
-* [lfs](lfs.md)
-* [image](image.md)
-* [sys](sys.md)
+* [lfs](packages/lfs.md)
+* [image](packages/image.md)
+* [sys](packages/sys.md)
 * [torch](packages/torch.md)
