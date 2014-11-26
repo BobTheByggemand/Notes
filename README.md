@@ -1,4 +1,3 @@
-Notes
-=====
+__Stuff__
 
-An attempt to structure some notes
+[Packages](packages.md)
