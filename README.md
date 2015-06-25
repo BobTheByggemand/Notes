@@ -25,4 +25,4 @@ git reset HEAD toto.txt
 git checkout -- toto.txt
 ```
 
-Now wasn't that easy and intuitive like the rest of git?
+Now wasn't that easy and **intuitive** like the rest of git?
