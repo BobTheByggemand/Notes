@@ -6,7 +6,7 @@ Go see the wiki (click the book icon on the right)
 
 Git crap:
 
-You want to du a 'git pull', but you have made changes to your local repo that are not committable yet. So you do a 'git stash' a 'git pull' and a 'git stash apply'. Unfortunately there are merge conflicts during the stash apply. One of these, in the file toto.txt, doesn't really matter. You would like to ignore your old changes and get a clean copy from the distant repo. So you try:
+You want to do a 'git pull', but you have made changes to your local repo that are not committable yet. So you do a 'git stash' a 'git pull' and a 'git stash apply'. Unfortunately there are merge conflicts during the stash apply. One of these, in the file toto.txt, doesn't really matter. You would like to ignore your old changes and get a clean copy from the distant repo. So you try:
 
 ```
 git checkout -- toto.txt
